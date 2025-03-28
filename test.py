@@ -61,7 +61,7 @@ while True:
 
         if index == 0:
             text = pyttsx3.init()
-            text.say("hello doctor Moaty")
+            text.say("hello doctor")
             text.runAndWait()
 
         if index == 1:
@@ -71,7 +71,7 @@ while True:
 
         if index == 2:
             text = pyttsx3.init()
-            text.say("i love you doctor Donkol ")
+            text.say("i love you")
             text.runAndWait()
 
         if index == 3:
